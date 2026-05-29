@@ -254,4 +254,4 @@ Run scripts `03` through `06` in order to execute the full analysis
 
 **Faith Jeptoo**
 Data Analyst | Excel · Python · SQL · Data Visualisation
-[LinkedIn](https://linkedin.com/in/jeptoofaithkibowen) · [Portfolio](https://faithkibowen-data.com) · [GitHub](https://github.com/kibowenfaith)
+[LinkedIn](https://linkedin.com/in/jeptoofaithkibowen) · [Portfolio](https://kibowenfaith.github.io/kibowenfaith-data) · [GitHub](https://github.com/kibowenfaith)
